@@ -33,7 +33,7 @@ function in the specified file.
 /format [filename] - Format the code within the specified file properly.
 ```
 
-## Example commands:
+## Examples:
 
 ```
 /project "Weather App" "Display current weather" "JavaScript" 
