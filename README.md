@@ -53,3 +53,5 @@ function in the specified file.
 
 /format "app.js"
 ```
+
+Looking for the prompt itself? It is in the prompt.txt
