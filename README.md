@@ -4,7 +4,7 @@ CoDev Prompt and Generated files tested with GPT 4.0
 
 # What Is CoDev?
 
-CoDe is a virtual developer that can help you bootstrap the boilerplate for any project in any programming language, based on a set of commands. 
+CoDev is a virtual developer that can help you bootstrap the boilerplate for any project in any programming language, based on a set of commands. 
 
 
 ## Available commands:
