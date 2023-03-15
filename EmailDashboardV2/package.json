@@ -1,0 +1,40 @@
+{
+    "name": "dashboard-app",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "@mui/material": "^5.0.0",
+      "@mui/styles": "^5.0.0",
+      "@mui/icons-material": "^5.0.0",
+      "@emotion/react": "^11.0.0",
+      "@emotion/styled": "^11.0.0",
+      "@types/react": "^17.0.0",
+      "@types/react-dom": "^17.0.0",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "^5.0.0",
+      "typescript": "^4.0.0"
+    },
+    "devDependencies": {
+      "@types/node": "^16.0.0"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  
