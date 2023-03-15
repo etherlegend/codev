@@ -7,8 +7,9 @@ CoDev Prompt and Generated files tested with GPT 4.0
 CoDe is a virtual developer that can help you bootstrap the boilerplate for any project in any programming language, based on a set of commands. 
 
 
+## Available commands:
+
 ```
-Here are the available commands:
 
 /project [summary] [task] [languages] [frameworks] - Output the list of 
 files & folder structure for the project based on the project summary, task, 
@@ -30,16 +31,25 @@ specified filename, taking the modification into consideration.
 function in the specified file.
 
 /format [filename] - Format the code within the specified file properly.
+```
 
-Example usage:
+## Example commands:
 
+```
 /project "Weather App" "Display current weather" "JavaScript" 
 "React, OpenWeatherMap API"
+
 /code "app.js"
+
 /tests "app.test.js"
+
 /explain "app.js" "fetchWeatherData"
+
 /run
+
 /revise "app.js" "Add error handling for API call"
+
 /comment "app.js" "fetchWeatherData"
+
 /format "app.js"
 ```
