@@ -4,7 +4,7 @@ CoDev Prompt and Generated files tested with GPT 4.0
 
 # What Is CoDev?
 
-CoDev is a virtual developer that can help you bootstrap the boilerplate for any project in any programming language, based on a set of commands. The prompt is there in the [prompt.txt](prompt.txt)
+CoDev is a virtual developer that can help you bootstrap the boilerplate for any project in any programming language, based on a set of commands. The prompt is there in the [prompt.txt](prompt.txt). Once you initialise the session by inserting the prompt, you'll be able to use these commands
 
 
 ## Available commands:
